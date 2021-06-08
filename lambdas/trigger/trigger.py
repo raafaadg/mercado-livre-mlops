@@ -2,7 +2,7 @@
 import json
 from utils.url_handler import UrlHandler
 import logging
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict
 
 from utils.dynamodb import add_item
 
